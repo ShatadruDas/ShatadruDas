@@ -2,7 +2,7 @@
 - 👀 I’m interested in .Net,.Net Core,Azure,Python,Kubernates,Docker,Web APIs
 - 🌱 I’m currently learning AI/ML.
 - 💞️ I’m looking to collaborate on any ideas that improves life.
-- 📫 How to reach me: shatadru.das.official@gmail.com
+
 
 <!---
 ShatadruDas/ShatadruDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
